@@ -1,4 +1,4 @@
-Cat Vision: Procesamiento Digital de Imágenes con OpenCV
+Procesamiento Digital de Imágenes con OpenCV aplicado a mi gato 'lulú'
 
 Este proyecto forma parte de mi especialización en Inteligencia Artificial y Visión Artificial.
 Utilicé este notebook para experimentar con técnicas fundamentales de manipulación de píxeles y espacios de color.
