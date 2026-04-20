@@ -18,4 +18,3 @@ Anotación de Imágenes: Inserción de formas y texto técnico sobre la matriz d
 Resultado
 El proyecto toma una imagen original (mi gato) y aplica un pipeline de procesamiento para mejorar la visibilidad y resaltar características específicas.
 
-![Resultado](imagenes/resultado.png)
