@@ -1,4 +1,4 @@
-Procesamiento Digital de Imágenes con OpenCV aplicado a mi gato 'lulú'
+Procesamiento Digital de Imágenes con OpenCV aplicado a mi gato
 
 Este proyecto forma parte de mi especialización en Inteligencia Artificial y Visión Artificial.
 Utilicé este notebook para experimentar con técnicas fundamentales de manipulación de píxeles y espacios de color.
@@ -17,4 +17,7 @@ Anotación de Imágenes: Inserción de formas y texto técnico sobre la matriz d
 
 Resultado
 El proyecto toma una imagen original (mi gato) y aplica un pipeline de procesamiento para mejorar la visibilidad y resaltar características específicas.
+
+
+![Resultado](Imagenes/resultado.png)
 
